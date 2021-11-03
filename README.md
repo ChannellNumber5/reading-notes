@@ -10,4 +10,4 @@ Hello! My name is Christina Robinson and this will be my page devoted to a **sho
 
 on every step of the way, finding new rabbit holes to traverse and coming out of the other side excited to learn more.
 
-Check out my profile here [ChannellNumber5](https://github.com/ChannellNumber5 "A wonderful profile, if I do say so myself")/!
+Check out my profile here [@ChannellNumber5](https://github.com/ChannellNumber5 "A wonderful profile, if I do say so myself")!
