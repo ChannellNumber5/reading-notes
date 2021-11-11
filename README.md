@@ -35,3 +35,6 @@ This was a fantastic listen (with not too long of a length, for all my short att
        - The trickiest part of the Growth Mindset for me, is the constant skill of putting off what feels good now, for what 
        is going to best the best in the future. Instead of pushing off the hardest tasks for the end, a Growth Mindset, for me,
        would be to accomplish the most challenging things first and then reward myself with the easier or fun things later.
+
+## Hyperlinks to my Hypercool Reading Notes:
+- [Markdown Reading Notes](markdown.md)
