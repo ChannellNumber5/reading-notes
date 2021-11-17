@@ -14,8 +14,11 @@ Once you have cloned your repository from github, you'll need to change director
 Then you will need to open up your code in VS Code (assuming that VS Code is the Text Editor that you have chosen to use). To open it in VC Code, use the command `code . ` which was configured to open VS Code. The `.` part of the command opens all of the files within the directory of your repository
 
 Once you've made changes in VS Code, you'll then need to use teh ACP process in order to "upload" your changes to github. Here is the ACP process:
+
     - A: stands for add, where you will use the `git add .` command which "stages" all of the files in your repository, so that the changes can be committed. If you choose not to use `.` you can specify which file you'd like to stage to be "uploaded"
+
     - C: stands for commit, where you will use the `git commit -m ""` command, where you will commit your changes. The `-m` is used to create your "commit message" which is a PUBLIC message that tracks the changes that you are making to the files in your repository.
+    
     - P: stands for push, where you will use the `git push orgin main` command to push your commits to github.
 
     Do note that in this process, you will want to use the `git status` command to track where your files are at in the process. The status command will tell you what "version" your repository and its files are on and what changes are pending to be committed.
