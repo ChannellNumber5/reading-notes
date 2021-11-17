@@ -24,3 +24,6 @@ If you wish to imbed a link in the phrase "This will make you smile" and you wan
 "[This will make you smile](https//youtube.com/xyz)" and "This will make you smile" turns into a link to the fake YouTube address. If you wish to insert a picture with a caption,
 it is the same formatting as the hyperlink, except you begin the line with an exclamation point! And then what's inside of the brackets will be the caption for the picture and
 inside the parenthesis will be the file path for the photo.
+
+
+[Back to Reading Notes](README.md)

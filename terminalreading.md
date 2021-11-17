@@ -37,3 +37,5 @@ A few basic commmands that you can use to make yourself *dangerous* in the Termi
 Then, to add in my favorite quote from the reading "everything is a file!" the type of file may change, but as you move around the Terminal, try to think as everything 
 being a file. I'm a 3D and visual thinker, so using the Terminal is definitely daunting to me, but thinking of everything as a file, will help me to be able to navigate
 through the commands and all of my folders and files.
+
+[Back to Reading Notes](README.md)
