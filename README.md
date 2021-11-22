@@ -1,4 +1,4 @@
-#reading-notes
+# reading-notes
 
 # *This is a repository for reading notes for Code Fellows*
 
@@ -36,9 +36,9 @@ This was a fantastic listen (with not too long of a length, for all my short att
        is going to best the best in the future. Instead of pushing off the hardest tasks for the end, a Growth Mindset, for me,
        would be to accomplish the most challenging things first and then reward myself with the easier or fun things later.
 
-##Hyperlinks to my Hypercool Reading Notes:
--[Markdown Reading Notes](markdown.md)
--[Text Editors and The Terminal Notes](terminalreading.md)
--[Git Overview Notes](gitoverview.md)
--[Wireframes and HTML Notes](hypertextmarkuplanguage.md)
--[CSS Summary - What is It and How to?](css-reading-notes.md)
+## Hyperlinks to my Hypercool Reading Notes:
+- [Markdown Reading Notes](markdown.md)
+- [Text Editors and The Terminal Notes](terminalreading.md)
+- [Git Overview Notes](gitoverview.md)
+- [Wireframes and HTML Notes](hypertextmarkuplanguage.md)
+- [CSS Summary - What is It and How to?](css-reading-notes.md)
