@@ -1,6 +1,6 @@
-# reading-notes
+#reading-notes
 
-*This is a repository for reading notes for Code Fellows*
+# *This is a repository for reading notes for Code Fellows*
 
 ***
 
@@ -14,7 +14,7 @@ Check out my profile here [@ChannellNumber5](https://github.com/ChannellNumber5 
 
 ***
 
-## First Up on the "Reading Notes": _GROWTH MINDSET_
+## First Up on the "Reading Notes": _GROWTH MINDSET_ 
   as described by Steve Haffenden from Atlassian
   
 This was a fantastic listen (with not too long of a length, for all my short attention span people) on how to maintain a dynamic mindset, in a world that's vying for you to settle and plateau. Steve describes the traps that we can fall into, from becoming overwhelmed with the frustrations of our daily tasks or not having enough "Gumption" to complete the tasks we know we ought to, to being envious of coworkers who may be more talented or a quicker learner in certain areas than we are. All of these - and more! - are signs of a lack of a growth mindset - a mindset that is stuck in its ways and resitant to change. Steve does a wonderful job of describing Growth Mindset and then providing key practicals for how to maintain it. For me, here are three reminders for how I keep my self in a growth mindset:
@@ -36,8 +36,9 @@ This was a fantastic listen (with not too long of a length, for all my short att
        is going to best the best in the future. Instead of pushing off the hardest tasks for the end, a Growth Mindset, for me,
        would be to accomplish the most challenging things first and then reward myself with the easier or fun things later.
 
-## Hyperlinks to my Hypercool Reading Notes:
-- [Markdown Reading Notes](markdown.md)
-- [Text Editors and The Terminal Notes](terminalreading.md)
-- [Git Overview Notes](gitoverview.md)
-- [Wireframes and HTML Notes](hypertextmarkuplanguage.md)
+##Hyperlinks to my Hypercool Reading Notes:
+-[Markdown Reading Notes](markdown.md)
+-[Text Editors and The Terminal Notes](terminalreading.md)
+-[Git Overview Notes](gitoverview.md)
+-[Wireframes and HTML Notes](hypertextmarkuplanguage.md)
+-[CSS Summary - What is It and How to?](css-reading-notes.md)
