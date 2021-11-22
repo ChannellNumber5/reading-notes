@@ -22,7 +22,7 @@ Essentially, they are exactly what they sound like. If you are using an external
 
 `<head>`
 
-    `<link rel="stylesheet" href="webpagestylefile.css">`
+`<link rel="stylesheet" href="webpagestylefile.css">`
 
 `</head>`
 
@@ -30,11 +30,11 @@ If you are going to use Internal CSS, that means that you are putting what they 
 
 `<head>`
 
-    `<style>`
+`<style>`
 
-        "Insert CSS coding here"
+`"Insert CSS coding here"`
 
-    `</style>`
+`</style>`
 
 `</head>`
 
@@ -42,7 +42,7 @@ Finally, if you want to use Inline CSS, that means that you will add the style y
 
 `<p style = "color: yellow; font-size: 11px;">`
 
-    This is a paragraph with yellow text and font size 11.
+`This is a paragraph with yellow text and font size 11.`
 
 `</p>`
 
