@@ -14,7 +14,7 @@ From the other readings, we see how we can use JavaScript to take in information
 
 Essentially, this tag will create an input box that will take in text for a favorite fruit. Using JavaScript, that information can then be input by the user and then assigned to a variable. The code for creating a variable and assigning a value to it would look like this:
 
-` var dogbone = "chewy brand"`
+`var dogbone = "chewy brand"`
 
 The command `var` is used in JavaScript to create the variable dogbone and that variable has what they call a "string" value (which is just a fancy word for text) and that value is "Chewy Brand". Variables can either have a number or string value... for now.
 
