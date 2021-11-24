@@ -42,3 +42,4 @@ This was a fantastic listen (with not too long of a length, for all my short att
 - [Git Overview Notes](gitoverview.md)
 - [Wireframes and HTML Notes](hypertextmarkuplanguage.md)
 - [CSS Summary - What is It and How to?](css-reading-notes.md)
+- [JavaScript Reading Notes and How Computers Work Notes](jsreadingnotes.md)
