@@ -10,7 +10,7 @@ Here is a block of code and I'll explain what it means at the bottom.
 
 `for (let i = 0; i < 10; i++) {`
 
-    `console.log(i);`
+`console.log(i);`
 
 `}`
 
