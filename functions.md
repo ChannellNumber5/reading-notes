@@ -23,7 +23,9 @@ In Javascript, this piece of code would create a variable called "finger" and th
 A function in Javascript, essentially, allows you to control when the code is invoked or executed in your webpage. When you create you javascript page, instead of just putting all of the code in your page, you can put it all in a function and then, at a certain part of your webpage or at the press of a button, your webpage will execute that function. Here's some code for how you can create a function:
 
 ` function getFaveNumber() {`
-`   let faveNumber = prompt("What is your favorite number?");`
+
+`   let faveNumber=prompt("What is your favorite number?");`
+
 `}`
 
 Basically, this function is called getFaveNumber and, what it does is prompts the user with this information to input their favorite number. Then, based on what the user inputs, this function will assign that value to the new variable "faveNumber".
