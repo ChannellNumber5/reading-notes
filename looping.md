@@ -8,8 +8,10 @@ So, to keep this really short, when you are coding, you may want a piece of code
 
 Here is a block of code and I'll explain what it means at the bottom.
 
-` for (let i = 0; i < 10; i++) { `
+`for (let i = 0; i < 10; i++) {`
+
     `console.log(i);`
+
 `}`
 
 In the above block of code, I have created a for loop and, you do that by creating and giving a value to the variable i (if you don't understand that, read the notes on functions) and then you are running this code for as long as the i value is less than 10. The `i++` is standard programming notation that you will be increasing the i value each time you go through your loop. Now, for the body of the code, it is essentially displaying the number of each loop that is done and it would display 0 - 9, equalling 10 iterations.
